@@ -1,0 +1,10 @@
+C:\Users\Dimon\source\repos\interpolacja\bin\Debug\interpolacja.exe.config
+C:\Users\Dimon\source\repos\interpolacja\bin\Debug\interpolacja.exe
+C:\Users\Dimon\source\repos\interpolacja\bin\Debug\interpolacja.pdb
+C:\Users\Dimon\source\repos\interpolacja\obj\Debug\interpolacja.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\interpolacja\obj\Debug\interpolacja.Form1.resources
+C:\Users\Dimon\source\repos\interpolacja\obj\Debug\interpolacja.Properties.Resources.resources
+C:\Users\Dimon\source\repos\interpolacja\obj\Debug\interpolacja.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\interpolacja\obj\Debug\interpolacja.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\interpolacja\obj\Debug\interpolacja.exe
+C:\Users\Dimon\source\repos\interpolacja\obj\Debug\interpolacja.pdb
